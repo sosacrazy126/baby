@@ -7,8 +7,8 @@ export const EXAMPLES_KEY = 'BABYAGIUI_EXAMPLES';
 
 export const MODELS = [
   {
-    id: 'gpt-4-1106-preview',
-    name: 'OpenAI GPT-4 Turbo',
+    id: 'gpt-4o-mini',
+    name: 'OpenAI GPT-4o-mini',
     icon: 'openai-logo.svg',
     badge: 'Preview',
   },
